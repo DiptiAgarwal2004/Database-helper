@@ -2,6 +2,8 @@
 
 **Chat with Database** is a web application that allows users to interact with their database via natural language prompts. The app sends user queries to a backend API, processes the queries, and returns SQL commands along with query results. It provides a simple and intuitive interface to explore and manipulate databases without manually writing SQL.
 
+![Description of the image](imagee.png)
+
 ## Features
 - Type natural language prompts to interact with your database.
 - Automatically generates SQL queries based on user input.
